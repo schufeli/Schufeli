@@ -1,7 +1,7 @@
 ### Hi there and welcome to my page 👋
 
 My name is Simon Schaufelberger. I'm a Software developer and Cybersecurity enthusiast from Luzern, Switzerland. 
-I do a lot of thins, some of them you may even find interesting :wink: 
+I do a lot of things, some of them you may even find interesting :wink: 
 
 ### What do I do?
 <p>
