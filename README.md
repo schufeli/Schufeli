@@ -17,3 +17,6 @@ I do a lot of things, some of them you may even find interesting :wink:
   <img alt="Deno" src="https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white&style=for-the-badge" />
   <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
 </p>
+
+[![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
