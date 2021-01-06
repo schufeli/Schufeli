@@ -7,7 +7,7 @@
 - :briefcase: I'm currently employed as an Apprentice
 - 👯 I'm looking to collaborate with other developers
 - 🥅 2021 Goals: Learn more about Hosting, Cybersecurity and Fullstack development.
-- ⚡ Fun fact: I like spicy food
+- ⚡ Fun fact: I don't like winter..
 
 
 <p>
