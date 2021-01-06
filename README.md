@@ -9,7 +9,6 @@
 - 🥅 2021 Goals: Learn more about Hosting, Cybersecurity and Fullstack development.
 - ⚡ Fun fact: I don't like winter..
 
-
 <p>
   <img alt="C Sharp" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" />
@@ -20,7 +19,3 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
   <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
 </p>
-
----
-
-
