@@ -1,4 +1,4 @@
-### Hi there, I'm Simon - aka Schufeli
+### Hi there, I'm Simon - aka Schufi
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 
