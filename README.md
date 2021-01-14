@@ -7,7 +7,7 @@
 - :briefcase: I'm currently employed as an Apprentice
 - 👯 I'm looking to collaborate with other developers
 - 🥅 2021 Goals: Learn more about Hosting, Cybersecurity and Fullstack development.
-- ⚡ Fun fact: I don't like winter..
+- ⚡ Fun fact: The King of Hearts is the only king in a deck of cards without a mustache..
 
 <p>
   <img alt="C Sharp" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
