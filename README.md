@@ -1,5 +1,8 @@
 ### Hi there, I'm Simon - aka Schufi
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Schufeli" alt="timo-cmd" /> </p> 
+
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 
 ## I'm a Developer, Nerd and Cybersecurity Enthusiast!!
