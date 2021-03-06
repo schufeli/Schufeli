@@ -6,7 +6,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 
 ## I'm a Developer, Nerd and Cybersecurity Enthusiast!!
-- :closed_book: I'm currently learning High-level Languages
 - :briefcase: I'm currently employed as an Apprentice
 - 👯 I'm looking to collaborate with other developers
 - 🥅 2021 Goals: Learn more about Hosting, Cybersecurity and Fullstack development.
