@@ -1,7 +1,7 @@
 ### Hi there, I'm Simon - aka Schufi
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Schufeli" alt="timo-cmd" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Schufeli" alt="schufi" /> </p> 
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 
