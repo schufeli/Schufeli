@@ -12,10 +12,7 @@ Swiss-based software developer
 - :zap: In my free time, I solve CTF challenges and work on my own software projects.
 - :mailbox: How to reach out to me: <a href="mailto:me@schufi.codes?subject=Question:">me@schufi.codes</a>
 
-<br>
-
 ### :hammer_and_wrench: Languages and Tools :
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp-lang" height="25" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="go" alt="go-lang" height="25" />&nbsp;
