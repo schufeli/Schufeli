@@ -1,23 +1,30 @@
-### Hi there, I'm Simon - aka Schufi
+<div align="center">
+  <h3>Hi there 👋, I'm Simon aka <a href="https://github.com/schufeli">@schufeli</a></h3>
+  I'm a Developer, Nerd and Cybersecurity Enthusiast!
+</div>
 
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Schufeli" alt="schufi" /> </p> 
+### 👨🏻‍💻 About me :
+Swiss-based software developer
+- :briefcase: I am currently employed as Software developer: planning and writing full stack applications for business customers.
+- :seedling: Learning Web-application and API security.
+- :zap: In my free time, I solve CTF challenges and work on my own software projects.
+- :mailbox: How to reach out to me: <a href="mailto:me@schufi.codes?subject=Question:">me@schufi.codes</a>
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+<br>
 
-## I'm a Developer, Nerd and Cybersecurity Enthusiast!!
-- :briefcase: I'm currently employed as an Apprentice
-- 👯 I'm looking to collaborate with other developers
-- 🥅 2021 Goals: Learn more about Hosting, Cybersecurity and Fullstack development.
-- ⚡ Fun fact: The King of Hearts is the only king in a deck of cards without a mustache..
+### :hammer_and_wrench: Languages and Tools :
 
-<p>
-  <img alt="C Sharp" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" />
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
-</p>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp-lang" height="25" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="go" alt="go-lang" height="25" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript-lang" height="25" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vuejs" alt="vuejs-framework" height="25" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="angular" alt="angular-framework" height="25" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" title="ionic" alt="ionic-framework" height="25" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwind" alt="tailwind-css" height="25" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" height="25" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="debian" alt="debian-os" height="25" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="aws" alt="aws" height="25" />&nbsp;  
+</div>
