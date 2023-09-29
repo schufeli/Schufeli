@@ -10,7 +10,7 @@ Swiss-based software developer
 - :briefcase: I am currently employed as Software developer: planning and writing full stack applications for business customers.
 - :seedling: Learning Web-application and API security.
 - :zap: In my free time, I solve CTF challenges and work on my own software projects.
-- :mailbox: How to reach out to me: <a href="mailto:me@schufi.codes?subject=Question:">me@schufi.codes</a>
+- :mailbox: How to reach out to me: <a href="mailto:me@schufeli.codes?subject=Question:">me@schufeli.codes</a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
