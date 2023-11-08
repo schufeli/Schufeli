@@ -6,8 +6,8 @@
 <br>
 
 ### 👨🏻‍💻 About me :
-Swiss-based software developer
-- :briefcase: I am currently employed as Software developer: planning and writing full stack applications for business customers.
+Swiss-based software developer and security analyst
+- :briefcase: I am currently employed as a junior security analyst, searching for and assessing vulnerabilities on an industrial enterprise scale.
 - :seedling: Learning Web-application and API security.
 - :zap: In my free time, I solve CTF challenges and work on my own software projects.
 - :mailbox: How to reach out to me: <a href="mailto:me@schufeli.codes?subject=Question:">me@schufeli.codes</a>
